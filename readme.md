@@ -6,7 +6,7 @@ However you didn't like to change it one by one (a little randomness is expected
 Simple javascript function, making life easier.
 
 ## Installation
-* `<link rel="stylesheet" href="https://raw.githubusercontent.com/RiddleOner/ImageSwitcher/master/js/imageSwitcher.js">`
+* Create new js script and copy paste.
 
 ## Usage
 * Prepair your js array with image.
